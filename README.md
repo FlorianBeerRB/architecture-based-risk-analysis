@@ -4,7 +4,7 @@
 
 ## Licensing
 We have the goal to provide everything to the engineering community, to facilitate the use of AbRA.
-Therefore, the tooling available under [MIT license](LICENSE).
+Therefore, the tooling available under [Mozilla Public License 2.0](LICENSE).
 The [documentation](docs) is available under [CC BY 4.0](docs/LICENSE).
 See also the license files in the specific folders.
 
