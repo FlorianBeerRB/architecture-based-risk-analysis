@@ -27,6 +27,8 @@ The purpose of this repository is to facilitate the adoption of the architecture
 - providing tooling for a simple adoption by architects
 - providing automation-solutions for a simple adopting in projects
 
+Please take a look into the [tooling](tooling/README.md) section for downloads.
+
 ## Papers
 
 The documentation for AbRA is licensed under CC BY 4.0  <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png"  width="60px" />
